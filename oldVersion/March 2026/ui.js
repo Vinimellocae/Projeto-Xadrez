@@ -494,13 +494,13 @@ export class UI {
                 this.BotaoDepois.disabled = false
             }
         } else {
-            if(this.Estados.numeroEstado === 0) {
+            if (this.Estados.numeroEstado === 0) {
                 this.BotaoAntes.disabled = true
                 this.BotaoDepois.disabled = true
             } else {
                 this.BotaoAntes.disabled = false
             }
-        } 
+        }
     }
 }
 

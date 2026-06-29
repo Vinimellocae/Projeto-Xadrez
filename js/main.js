@@ -1,11 +1,11 @@
 import { Game } from "./engine/game.js"
-import { UI } from "./ui/ui.js"
+import { UI } from "./ui/UI.js"
 
 const modo = window.location.hash.replace('#', '')
 
 const configuracao = {
   CorDoJogador: 'preto',
-  Tempo: 300 
+  Tempo: 300
 }
 
 const jogo = new Game(configuracao.CorDoJogador)
