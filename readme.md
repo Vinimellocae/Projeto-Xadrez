@@ -4,6 +4,11 @@ Projeto de xadrez desenvolvido com **JavaScript puro (Vanilla JS)**, com foco em
 
 ---
 
+## 🔗 Link do Projeto
+👉 [Acesse o projeto online aqui](https://js-chess-wheat.vercel.app/)
+
+---
+
 ## 📌 Sobre o projeto
 
 Este projeto simula uma partida de xadrez funcional diretamente no navegador, permitindo jogar contra outro jogador local ou contra um bot.
